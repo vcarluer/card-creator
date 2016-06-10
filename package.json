@@ -19,5 +19,8 @@
   ],
   "author": "vcarluer@gmail.com",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/vcarluer/card-creator#readme"
+  "homepage": "https://bitbucket.org/vcarluer/card-creator#readme",
+  "dependencies": {
+    "jimp": "^0.2.24"
+  }
 }
