@@ -1,0 +1,23 @@
+{
+  "name": "card-creator",
+  "version": "1.0.0",
+  "description": "Create printable cards from a list of words in a text file and a background template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/vcarluer/card-creator.git"
+  },
+  "keywords": [
+    "card",
+    "creator",
+    "template",
+    "words",
+    "print"
+  ],
+  "author": "vcarluer@gmail.com",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/vcarluer/card-creator#readme"
+}
